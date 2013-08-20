@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://karman.github.io/atom.xml" rel="self"/>
   <link href="http://karman.github.io/"/>
-  <updated>2013-08-20T13:03:13+02:00</updated>
+  <updated>2013-08-20T13:04:45+02:00</updated>
   <id>http://karman.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Jekyll och Github Pages]]></title>
+    <link href="http://karman.github.io/blog/2013/08/20/jekyll-och-github-pages/"/>
+    <updated>2013-08-20T01:48:00+02:00</updated>
+    <id>http://karman.github.io/blog/2013/08/20/jekyll-och-github-pages</id>
+    <content type="html"><![CDATA[<p>Denna blogg har fått en ny form och även flyttat till en ny plattform. Kanske kan detta innebära att frekvensen av uppdateringar ökar något?</p>
+
+<!-- more -->
+
+
+<p>Bloggen görs nu tillgänglig via <a href="http://jekyllrb.com/">Jekyll</a>, som skiljer sig markant från tidigare använda <a href="http://wordpress.org/">WordPress</a>. Ingen databas används, istället genereras statiska HTML-filer som serveras till dig från <a href="http://pages.github.com/">Github Pages</a>. Inläggen har jag valt att skriva med <a href="http://daringfireball.net/projects/markdown/basics">Markdown</a>.</p>
+
+<p>Nästa steg är att importera alla mina tidigare blogginlägg, daterade tillbaka till 2009, från WordPress. Största anledningen till flytten är att jag helt enkelt ville pröva något nytt.</p>
+]]></content>
+  </entry>
   
 </feed>
