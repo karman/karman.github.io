@@ -4,7 +4,7 @@
   <title><![CDATA[Andreas Karman]]></title>
   <link href="http://karman.github.io/atom.xml" rel="self"/>
   <link href="http://karman.github.io/"/>
-  <updated>2013-08-20T16:00:33+02:00</updated>
+  <updated>2013-09-27T17:38:20+02:00</updated>
   <id>http://karman.github.io/</id>
   <author>
     <name><![CDATA[Andreas Karman]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bilder och filmer från #difboll]]></title>
+    <link href="http://karman.github.io/2013/09/27/bilder-och-filmer-fran-number-difboll/"/>
+    <updated>2013-09-27T17:37:00+02:00</updated>
+    <id>http://karman.github.io/2013/09/27/bilder-och-filmer-fran-number-difboll</id>
+    <content type="html"><![CDATA[<p>Igår spelades årets andra derby mellan Djurgården och AIK, slutresultatet blev 2-2 och 27 112 åskådare fanns på plats. För oss blårandiga supportrar var det en speciell händelse, då det var vårt första riktiga hemmaderby i Allsvenskan sedan 1992.</p>
+
+<p>I samband med det lanserades <a href="http://difboll.se">difboll.se</a> som samlar in bilder och filmer från <a href="http://instagram.com">Instagram</a> med hashtaggen #difboll.</p>
+
+<!-- more -->
+
+
+<p>Jag och <a href="https://twitter.com/martintroedsson">Martin Troedsson</a> har utvecklat webbplatsen på kvällstid de senaste dagarna. Min del har varit att form och kodning av gränsnitt, Martin har stått för tekniken.</p>
+
+<p><a href="http://wordpress.org">WordPress</a> står för grunden, <a href="http://nodejs.org/">Node.js</a> används tillsammans med <a href="http://redis.io/">Redis</a> och <a href="http://socket.io/">Socket.io</a> för realtidsinhämtningen av nya objekt. Objekten visas med hjälp av <a href="http://masonry.desandro.com/">Masonry</a>.</p>
+
+<p>Nästa steg är även hämta in bilder från <a href="https://twitter.com/search?q=%23difboll&amp;src=hash&amp;f=realtime">Twitter</a> i flödet. Finns det förslag vad man mer skulle kunna göra med <a href="http://difboll.se">difboll.se</a> får ni gärna skriva en kommentar här under.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Jekyll och Github Pages]]></title>
