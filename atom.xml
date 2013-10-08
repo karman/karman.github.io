@@ -4,7 +4,7 @@
   <title><![CDATA[Andreas Karman]]></title>
   <link href="http://karman.github.io/atom.xml" rel="self"/>
   <link href="http://karman.github.io/"/>
-  <updated>2013-09-27T17:52:09+02:00</updated>
+  <updated>2013-10-08T17:31:58+02:00</updated>
   <id>http://karman.github.io/</id>
   <author>
     <name><![CDATA[Andreas Karman]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ny webbplats för Uppdukat]]></title>
+    <link href="http://karman.github.io/2013/10/08/ny-webbplats-for-uppdukat/"/>
+    <updated>2013-10-08T17:25:00+02:00</updated>
+    <id>http://karman.github.io/2013/10/08/ny-webbplats-for-uppdukat</id>
+    <content type="html"><![CDATA[<p>Det är nu ett par månader sedan vi lanserade e-handelsbutiken <a href="http://uppdukat.se/">Uppdukat</a> som bland annat säljer <a href="http://uppdukat.se/produkter/glas/vinglas/">vinglas</a>, <a href="http://uppdukat.se/produkter/vin-bar/vinkylare/">vinkylare</a> och <a href="http://uppdukat.se/produkter/vin-bar/champagneskalar/">champagneskålar</a>. E-handelsplattformen är <a href="http://www.woothemes.com/woocommerce/">WooCommerce</a> för <a href="http://www.wordpress.org/">WordPress</a> och vid lanseringen använde vi en lätt modifierad version av ett standardtema.</p>
+
+<!-- more -->
+
+
+<p>Men det håller ju inte att använda ett standardtema för alltid, så förra veckan lanserades ett helt nytt tema som undertecknad har formgett och kodat. Till min hjälp har jag använt <a href="http://getbootstrap.com/">Bootstrap 3.0</a>.</p>
+
+<p>Stick över till <a href="http://uppdukat.se/">Uppdukat</a> och ta er en närmare titt om ni är intresserade!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bilder och filmer från #difboll]]></title>
